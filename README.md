@@ -10,5 +10,4 @@ PHP based CURD Web Application
 
 
 ### Popup for editing existing employee data 
-![Screenshot 2024-12-03 154124](https://github.com/user-attachments/assets/c017dfa5-727b-4aba-bd5e-0188cc7c0b9b)
 ![Screenshot 2024-12-03 155748](https://github.com/user-attachments/assets/d65a0b82-92ba-49b2-9811-2c833d52b5aa)
